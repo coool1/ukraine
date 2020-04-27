@@ -50,7 +50,7 @@ $query = mysqli_query($connection , $insert_query);
 				<div class="col-lg-6">
 					<div class="contact-details">
 						<ul>
-							<li><i class="fas fa-phone fa-rotate-90"></i> +01 899 286 777</li>
+							<li><i class="fas fa-phone fa-rotate-90"></i> +212 623-282301</li>
 						</ul>
 					</div>
 				</div>
@@ -61,7 +61,7 @@ $query = mysqli_query($connection , $insert_query);
     <nav class="navbar navbar-expand-lg navbar-dark bg-light top-nav">
         <div class="container">
             <a class="navbar-brand" href="index.html">
-				<img src="images/logo.png" alt="logo" />
+				<img src="" alt="logo" />
             </a>
             <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
 				<span class="fas fa-bars"></span>

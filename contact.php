@@ -1,4 +1,4 @@
-<?php
+<!--
 if(isset($_REQUEST['submit_register'])){
 
 $email = $_REQUEST['email'];
@@ -14,7 +14,7 @@ $insert_query = "INSERT INTO contact SET email='$email',name='$name',phonenumber
 $query = mysqli_query($connection , $insert_query);
 }
 
-?>
+-->
 <!DOCTYPE html>
 <html lang="en">
 <head>
